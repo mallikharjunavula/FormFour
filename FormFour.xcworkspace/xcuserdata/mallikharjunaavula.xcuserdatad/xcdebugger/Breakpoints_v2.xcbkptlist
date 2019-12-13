@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B1B56B71-ECEE-4661-9EAA-E1D125837A40"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08AF4D61-495C-4C2D-B9D7-9B151CC5D4B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FormFour/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "peripheral(_:didUpdateValueFor:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08AF4D61-495C-4C2D-B9D7-9B151CC5D4B1 - 614625d0c4e95596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FormFour.ViewController.peripheral(_: __C.CBPeripheral, didUpdateValueFor: __C.CBCharacteristic, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "FormFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mallikharjunaavula/Desktop/ios11/FormFour/FormFour/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+               <Location
+                  uuid = "08AF4D61-495C-4C2D-B9D7-9B151CC5D4B1 - 614625d0c4e95596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FormFour.ViewController.peripheral(_: __C.CBPeripheral, didUpdateValueFor: __C.CBCharacteristic, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "FormFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mallikharjunaavula/Desktop/ios11/FormFour/FormFour/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E643D90-D5BD-460B-9B23-158BC3968F5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FormFour/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9939F477-3CA8-45AB-800D-BAAD18CC0D05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FormFour/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

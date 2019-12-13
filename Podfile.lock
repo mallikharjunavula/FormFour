@@ -1,0 +1,36 @@
+PODS:
+  - ReactiveKit (3.14.3)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRealm (1.0.0):
+    - RealmSwift (~> 3.14)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+
+DEPENDENCIES:
+  - ReactiveKit (~> 3.14)
+  - RealmSwift
+  - RxCocoa
+  - RxRealm
+  - RxSwift
+
+SPEC CHECKSUMS:
+  ReactiveKit: b0d1dfd0ec6d67d58b99a9c7db87dfcd6f359bc0
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRealm: 1e81dcfca1fb50c3e9b3e1f8102bc875c5156a2e
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+
+PODFILE CHECKSUM: 9b222112328b23fd057d7bd3ddea56ebe0a62092
+
+COCOAPODS: 1.4.0
