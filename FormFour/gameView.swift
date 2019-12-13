@@ -60,6 +60,7 @@ class gameView: UIView {
         
     func dropItem(){
         
+        print("HI")
         if fillingArray[columnTouched] >= 0{
             let (grid,radius) = setGrid()
             let point = destPoint(grid: grid)
