@@ -9,6 +9,11 @@ target 'FormFour' do
   pod 'RxRealm'
   pod 'RxCocoa'
   pod 'ReactiveKit', '~> 3.14'
+  pod 'SwiftLint', '~> 0.25.0'
+  
+pod 'Tools'
+
+
   # Pods for FormFour
 
 end
